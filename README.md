@@ -2,7 +2,7 @@
 
 A dark, premium, single-page portfolio for an AI Product Engineer. Built with plain HTML, CSS, and vanilla JavaScript: no frameworks, no build step, no dependencies.
 
-**Live demo:** https://your-username.github.io/your-repo/
+**Live demo:** [(https://mostafaelmniawy7-glitchgithubio.vercel.app/)](https://mostafaelmniawy7-glitchgithubio.vercel.app/)
 
 ---
 
