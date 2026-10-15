@@ -68,8 +68,8 @@ h3{font-size:1.1rem;margin-bottom:8px}
 
 /* ===== About / Contact ===== */
 .about,.contact{display:grid;gap:36px;align-items:center}
-.photo{aspect-ratio:1;max-width:280px;border-radius:var(--r);background:var(--bg2);border:1px solid var(--bd);display:grid;place-content:center;font-size:4rem;font-weight:700;color:var(--cy)}
-.photo img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block;border-radius:var(--r)}
+.photo{aspect-ratio:1;max-width:280px;width:100%;border-radius:var(--r);background:var(--bg2);border:1px solid var(--bd);overflow:hidden;margin:0 auto}
+.photo img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
 .about p{color:var(--mu);margin:14px 0 22px}
 .open li{padding-left:22px;position:relative;color:var(--tx);margin-bottom:6px}
 .open li::before{content:"";position:absolute;left:0;top:.7em;width:8px;height:8px;border-radius:50%;background:var(--cy)}
